@@ -1,0 +1,3 @@
+<phpunit backupGlobals="true"
+         colors="true">
+</phpunit>
